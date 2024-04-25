@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdul Karim Khan</h1>
-<h3 align="center">Designing and building advanced applications for the iOS/macOS/tvOS platform</h3>
+<h1 align="left">Hi 👋, I'm Abdul Karim Khan</h1>
+<h3 align="left">Designing and building advanced applications for the iOS/macOS/tvOS platform</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkarimkhaan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkarimkhaan" /> </p>
+
+[![abdulkarimkhaan's GitHub | Stats](https://stats.quine.sh/abdulkarimkhaan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abdulkarimkhaan) 
+[![abdulkarimkhaan's Stack Overflow | Stats](https://stats.quine.sh/abdulkarimkhaan/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abdulkarimkhaan)  
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulkarimkhaan" alt="abdulkarimkhaan" /></a> </p>
 
