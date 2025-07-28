@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulkarimkhaan" alt="abdulkarimkhaan" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI, Python**
+- 🌱 I’m currently learning
 
 - 👯 I’m looking to collaborate on [my channel](https://www.youtube.com/@abdulkarimkhaan)
 
