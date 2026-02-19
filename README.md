@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Abdul Karim Khan</h1>
 <h3 align="left">Designing and building advanced applications for the iOS/macOS/tvOS platform</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulkarimkhaan" alt="abdulkarimkhaan" /></a> </p>
-
 - 🌱 Always learning, open to feedbacks
 
 - 👯 I’m looking to collaborate on [my channel](https://www.youtube.com/@abdulkarimkhaan)
